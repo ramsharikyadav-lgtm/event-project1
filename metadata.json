@@ -1,0 +1,6 @@
+{
+  "name": "Grand Azure EventOps - Hotel Event & Vendor Management",
+  "description": "Comprehensive hotel event and external vendor management platform with dual mobile app and web admin panel, two-level approval workflow, and real-time push notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
